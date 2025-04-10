@@ -14,10 +14,10 @@ To evaluate whether investing in solar panels is a financially viable and sustai
 📌 Project Steps
 I have followed a structured decision analysis approach broken into the following components:
 
-1️⃣ Objective Hierarchy
-We established a clear multi-level objective hierarchy:
-Primary Goal: Minimize energy costs while promoting sustainability.
-Sub-goals: Ensure reliability, maintain business continuity, minimize risk, and reduce dependence on fossil fuels.
+1️⃣ Objective Hierarchy:
+- We established a clear multi-level objective hierarchy:
+- Primary Goal: Minimize energy costs while promoting sustainability.
+- Sub-goals: Ensure reliability, maintain business continuity, minimize risk, and reduce dependence on fossil fuels.
 
 2️⃣ Influence Diagram
 We developed an influence diagram to identify all key variables and relationships:
