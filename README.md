@@ -56,7 +56,7 @@ I have followed a structured decision analysis approach broken into the followin
 - Assessed whether more research (e.g., site surveys) would significantly improve decision-making
 - Concluded EVPI was low, so current data is sufficient for a confident recommendation
 
-✅ Final Recommendation
+✅ Final Recommendation<br>
 Based on EMV, risk profile, and simulation outcomes, investing in solar energy is the optimal decision for Delta Warehousing LLC.<br>
 Payback period: ~6–7 years<br>
 Long-term savings: Significant over 20 years<br>
