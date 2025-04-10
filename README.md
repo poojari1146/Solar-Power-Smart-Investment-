@@ -57,18 +57,18 @@ I have followed a structured decision analysis approach broken into the followin
 - Concluded EVPI was low, so current data is sufficient for a confident recommendation
 
 ✅ Final Recommendation
-Based on EMV, risk profile, and simulation outcomes, investing in solar energy is the optimal decision for Delta Warehousing LLC.
-Payback period: ~6–7 years
-Long-term savings: Significant over 20 years
-Environmental benefit: ~48 tons of CO₂ offset annually
+Based on EMV, risk profile, and simulation outcomes, investing in solar energy is the optimal decision for Delta Warehousing LLC.<br>
+Payback period: ~6–7 years<br>
+Long-term savings: Significant over 20 years<br>
+Environmental benefit: ~48 tons of CO₂ offset annually<br>
 
-📊 Tools & Techniques Used
-Decision Trees
-Risk Profiling
-Sensitivity Analysis
-Monte Carlo Simulation
-EVPI (Expected Value of Perfect Information)
-Influence Diagrams
-Python (for simulation & visualization)
-Excel (for calculations)
+📊 Tools & Techniques Used<br>
+Decision Trees<br>
+Risk Profiling<br>
+Sensitivity Analysis<br>
+Monte Carlo Simulation<br>
+EVPI (Expected Value of Perfect Information)<br>
+Influence Diagrams<br>
+Python (for simulation & visualization)<br>
+Excel (for calculations)<br>
 
