@@ -4,14 +4,14 @@ For detailed view and explanatione, please visit the website: https://sites.goog
 🌞 Delta Warehousing LLC – Solar Energy Decision Analysis<br>
 A comprehensive decision analysis project to assess the feasibility and impact of solar energy integration for Delta Warehousing LLC in Dearborn, Michigan.
 
-📘 Project Overview
+📘 Project Overview<br>
 Delta Warehousing LLC, a B2B storage facility, explored the adoption of solar energy as a sustainable alternative to reduce long-term energy costs and carbon emissions. Our team conducted an in-depth decision analysis study covering both qualitative and quantitative aspects of the energy transition.<br>
 This repository documents the data-driven journey—from problem framing and modeling to decision-making under uncertainty.
 
-🚀 Goal
+🚀 Goal<br>
 To evaluate whether investing in solar panels is a financially viable and sustainable option for Delta Warehousing LLC, considering cost, energy savings, environmental impact, and risk.
 
-📌 Project Steps
+📌 Project Steps<br>
 I have followed a structured decision analysis approach broken into the following components:
 
 1️⃣ Objective Hierarchy
