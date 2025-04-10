@@ -2,7 +2,7 @@
 For detailed view and explanatione, please visit the website: https://sites.google.com/umich.edu/ds631-2023-fall-team-delta/home
 
 🌞 Delta Warehousing LLC – Solar Energy Decision Analysis<br>
-A comprehensive decision analysis project to assess the feasibility and impact of solar energy integration for Delta Warehousing LLC in Dearborn, Michigan.
+|A comprehensive decision analysis project to assess the feasibility and impact of solar energy integration for Delta Warehousing LLC in Dearborn, Michigan.
 
 📘 Project Overview<br>
 Delta Warehousing LLC, a B2B storage facility, explored the adoption of solar energy as a sustainable alternative to reduce long-term energy costs and carbon emissions. Our team conducted an in-depth decision analysis study covering both qualitative and quantitative aspects of the energy transition.<br>
