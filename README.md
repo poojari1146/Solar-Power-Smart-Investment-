@@ -42,7 +42,7 @@ I have followed a structured decision analysis approach broken into the followin
 - Solar panel efficiency
 - Installation cost per watt
 - Government incentives
-- Electricity price escalation  
+- Electricity price escalation<br>
 → This step helped us pinpoint critical variables impacting the decision.
 
 6️⃣ Monte Carlo Simulation
